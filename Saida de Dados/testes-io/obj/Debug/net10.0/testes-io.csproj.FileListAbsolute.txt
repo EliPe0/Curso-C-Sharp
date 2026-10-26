@@ -1,0 +1,15 @@
+C:\Users\Filipe\Desktop\Workspace\C#\testes-io\testes-io\bin\Debug\net10.0\testes-io.exe
+C:\Users\Filipe\Desktop\Workspace\C#\testes-io\testes-io\bin\Debug\net10.0\testes-io.deps.json
+C:\Users\Filipe\Desktop\Workspace\C#\testes-io\testes-io\bin\Debug\net10.0\testes-io.runtimeconfig.json
+C:\Users\Filipe\Desktop\Workspace\C#\testes-io\testes-io\bin\Debug\net10.0\testes-io.dll
+C:\Users\Filipe\Desktop\Workspace\C#\testes-io\testes-io\bin\Debug\net10.0\testes-io.pdb
+C:\Users\Filipe\Desktop\Workspace\C#\testes-io\testes-io\obj\Debug\net10.0\testes-io.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe\Desktop\Workspace\C#\testes-io\testes-io\obj\Debug\net10.0\testes-io.AssemblyInfoInputs.cache
+C:\Users\Filipe\Desktop\Workspace\C#\testes-io\testes-io\obj\Debug\net10.0\testes-io.AssemblyInfo.cs
+C:\Users\Filipe\Desktop\Workspace\C#\testes-io\testes-io\obj\Debug\net10.0\testes-io.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Desktop\Workspace\C#\testes-io\testes-io\obj\Debug\net10.0\testes-io.dll
+C:\Users\Filipe\Desktop\Workspace\C#\testes-io\testes-io\obj\Debug\net10.0\refint\testes-io.dll
+C:\Users\Filipe\Desktop\Workspace\C#\testes-io\testes-io\obj\Debug\net10.0\testes-io.pdb
+C:\Users\Filipe\Desktop\Workspace\C#\testes-io\testes-io\obj\Debug\net10.0\testes-io.genruntimeconfig.cache
+C:\Users\Filipe\Desktop\Workspace\C#\testes-io\testes-io\obj\Debug\net10.0\ref\testes-io.dll
+C:\Users\Filipe\Desktop\Workspace\C#\testes-io\testes-io\obj\Debug\net10.0\testes-io.csproj.Up2Date
