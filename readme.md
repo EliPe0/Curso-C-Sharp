@@ -15,7 +15,6 @@
   <a href="#o-que-ja-estudei">O que já estudei</a> •
   <a href="#estrutura-das-pastas">Estrutura</a> •
   <a href="#como-rodar">Como rodar</a> •
-  <a href="#proximos-passos">Próximos passos</a>
 </p>
 
 ---
