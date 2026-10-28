@@ -47,11 +47,8 @@ curso-c-sharp/
 ├── Entrada de Dados 1/     # lendo dados do usuário
 ├── Entrada de Dados 2/     # mais prática com entrada de dados
 ├── Funções Matemáticas/    # uso das funções de Math
-├── Exercicio 1/            # exercícios do curso
-├── Exercicio 2/
-├── Exercicio 3/
-├── Exercicio 4/
-└── Exercicio URI 1/        # problemas resolvidos no beecrowd
+├── Exercicios/             # exercícios do curso
+└── Exercicio URI/        # problemas resolvidos no beecrowd
 ```
 
 ## Como rodar
