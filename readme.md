@@ -14,7 +14,7 @@
   <a href="#sobre">Sobre</a> •
   <a href="#o-que-ja-estudei">O que já estudei</a> •
   <a href="#estrutura-das-pastas">Estrutura</a> •
-  <a href="#como-rodar">Como rodar</a> •
+  <a href="#como-rodar">Como rodar</a>
 </p>
 
 ---
