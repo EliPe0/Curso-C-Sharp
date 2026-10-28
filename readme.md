@@ -48,7 +48,7 @@ curso-c-sharp/
 ├── Entrada de Dados 2/     # mais prática com entrada de dados
 ├── Funções Matemáticas/    # uso das funções de Math
 ├── Exercicios/             # exercícios do curso
-└── Exercicio URI/        # problemas resolvidos no beecrowd
+└── Exercicio URI/          # problemas resolvidos no beecrowd
 ```
 
 ## Como rodar
